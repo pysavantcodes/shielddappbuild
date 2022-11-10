@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4b6d0f74.css",
+    "main.js": "/static/js/main.fa925360.js",
+    "static/js/454.09c9f74a.chunk.js": "/static/js/454.09c9f74a.chunk.js",
+    "static/js/942.1e598032.chunk.js": "/static/js/942.1e598032.chunk.js",
+    "static/js/563.8b5604a4.chunk.js": "/static/js/563.8b5604a4.chunk.js",
+    "static/js/787.65ba5dd1.chunk.js": "/static/js/787.65ba5dd1.chunk.js",
+    "static/js/419.08c8748f.chunk.js": "/static/js/419.08c8748f.chunk.js",
+    "static/js/163.b22beef6.chunk.js": "/static/js/163.b22beef6.chunk.js",
+    "static/media/logo.png": "/static/media/logo.d9802d1a646712735e82.png",
+    "static/media/Restorer-amico (1).png": "/static/media/Restorer-amico (1).b9e43dbe347dced044be.png",
+    "static/media/loading.gif": "/static/media/loading.8236568ba5835dc70281.gif",
+    "index.html": "/index.html",
+    "static/media/check.svg": "/static/media/check.afffbb644b85328edf3890d512229268.svg",
+    "static/media/upload.svg": "/static/media/upload.a94b24ba5b6a7231dce6185250df6bc1.svg",
+    "main.4b6d0f74.css.map": "/static/css/main.4b6d0f74.css.map",
+    "main.fa925360.js.map": "/static/js/main.fa925360.js.map",
+    "454.09c9f74a.chunk.js.map": "/static/js/454.09c9f74a.chunk.js.map",
+    "787.65ba5dd1.chunk.js.map": "/static/js/787.65ba5dd1.chunk.js.map",
+    "419.08c8748f.chunk.js.map": "/static/js/419.08c8748f.chunk.js.map",
+    "163.b22beef6.chunk.js.map": "/static/js/163.b22beef6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b6d0f74.css",
+    "static/js/main.fa925360.js"
+  ]
+}
